@@ -13,7 +13,7 @@ class MethodTest {
 
     @org.junit.jupiter.api.Test
     void addTwo() {
-        assertEquals(24, Method.add(5,7,6,6));
+        assertEquals(24, Method.addTwo(5,7,6,6));
     }
 
     @org.junit.jupiter.api.Test
