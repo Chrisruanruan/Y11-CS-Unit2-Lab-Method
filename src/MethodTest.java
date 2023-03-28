@@ -56,5 +56,5 @@ class MethodTest {
         assertEquals(-9, Method.roundNegativeValueToNearestInteger(-8.5));
     }
 
-
+ // check commit
 }
